@@ -1,0 +1,7 @@
+== README
+
+Learning Devise, CanCan and bootstrap with Rails App Project.
+
+http://railsapps.github.io/
+
+<tt>rake doc:app</tt>.
